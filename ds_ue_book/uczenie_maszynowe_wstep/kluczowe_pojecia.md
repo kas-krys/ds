@@ -196,7 +196,7 @@ Algorytm uczenia maszynowego
     zatem niezależny od kontekstu, w jakim się go wykonuje. {cite:ps}`wojcik2021`
 
 Model uczenia maszynowego
-    pod nazwą model uczenia maszynowego (lub skrótowo: model) funkcjonować będzie instancja (w rozumieniu informatyki: konkretny egzemplarz) algorytmu, zastosowany do zadanego problemu, w celu utworzenia uproszczonego opisu wycinka rzeczywistości. Proces ten nosi nazwę szkolenia, uczenia lub trenowania27 i odbywa się na podstawie dostępnych danych, mając najczęściej postać procesu indukcyjnego. Jest to zatem algorytm o ukształtowanym i ustalonym wewnętrznym stanie – konkretyzacja abstrakcyjnie i symbolicznie zdefiniowanej procedury. {cite:ps}`wojcik2021`
+    pod nazwą model uczenia maszynowego (lub skrótowo: model) funkcjonować będzie instancja (w rozumieniu informatyki: konkretny egzemplarz) algorytmu, zastosowany do zadanego problemu, w celu utworzenia uproszczonego opisu wycinka rzeczywistości. Proces ten nosi nazwę szkolenia, uczenia lub trenowania i odbywa się na podstawie dostępnych danych, mając najczęściej postać procesu indukcyjnego. Jest to zatem algorytm o ukształtowanym i ustalonym wewnętrznym stanie – konkretyzacja abstrakcyjnie i symbolicznie zdefiniowanej procedury. {cite:ps}`wojcik2021`
 ```
 
 ```{admonition} Model uczenia maszynowego - jeszcze krótsza definicja
